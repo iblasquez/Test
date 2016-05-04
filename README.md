@@ -1,10 +1,12 @@
 Hello !
 
-## This is just a test
-<script src="mermaid.full.min.js"></script>
+## Mermaid
 
-<div class="mermaid">
-    Alice->>John: Hello John, how are you?
-    John-->>Alice: Great!
+<script src="https://cdn.rawgit.com/knsv/mermaid/0.5.1/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+
+<div class="mermaid"> 
+sequenceDiagram 
+Alice->>John: Hello John, how are you? 
+John-->>Alice: Great! 
 </div>
-
