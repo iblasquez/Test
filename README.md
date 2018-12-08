@@ -2,7 +2,7 @@ Hello !
 
 ## Mermaid
 
-<script src="https://cdn.rawgit.com/knsv/mermaid/0.5.1/dist/mermaid.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/knsv/mermaid@0.5.1/dist/mermaid.min.js"></script>
 <script>mermaid.initialize({startOnLoad:true});</script>
 
 <div class="mermaid"> 
